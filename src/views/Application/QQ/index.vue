@@ -1,5 +1,5 @@
 <template>
   <div>
-    login
+    QQ
   </div>
 </template>

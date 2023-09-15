@@ -1,7 +1,7 @@
 <template>
-  <HelloWorld msg="Vite + Vue" />
+  <layouts />
 </template>
 
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import layouts from '@/layouts/index.vue'
 </script>

@@ -3,6 +3,10 @@ declare module '*.less' {
   export default classes;
 }
 
+declare module '*.mjs';
+
+declare module '@/*';
+
 declare module '*.vue' {
   import { defineComponent } from 'vue';
   const Component: ReturnType<typeof defineComponent>;

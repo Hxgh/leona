@@ -1,5 +1,5 @@
 <template>
   <div>
-    login
+    wechat
   </div>
 </template>
